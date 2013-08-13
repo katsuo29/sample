@@ -2,3 +2,4 @@ yamada
 mituyuki
 souma
 isono
+adachi
