@@ -3,4 +3,4 @@ isono
 yamada
 souma
 takao
-
+yamada
