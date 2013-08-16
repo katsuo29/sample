@@ -8,3 +8,5 @@ souma
 
 isono
 hidemi
+
+tahara
